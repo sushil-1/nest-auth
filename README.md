@@ -5,7 +5,7 @@ NestJs sample project for Registration, Login and Forgot Password. Using MongoDB
 
 ## Getting started
 
-Clone the this repository own your local.
+Clone this repository on your local.
 
 ## Installation
 
